@@ -1,0 +1,8 @@
+# HackerRank infrastructure files
+/.c1
+
+*.log
+
+/node_modules
+*.pyc
+__pycache__
